@@ -8,6 +8,7 @@ import Queue
   Source: http://www.redblobgames.com/pathfinding/a-star/introduction.html
 """
 obstacles = [(0,1), (2,4), (2,5), (2,6), (2,7)]
+
 graph = Graph(20, 10, obstacles)
 
 """
