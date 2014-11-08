@@ -1,4 +1,4 @@
-from graph import *
+from Graph import *
 import Queue
 
 """
