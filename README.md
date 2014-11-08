@@ -1,5 +1,5 @@
-PathFindingInPython
-===================
+Path Finding In Python
+======================
 
 Path Finding Algorithms in Python
 
